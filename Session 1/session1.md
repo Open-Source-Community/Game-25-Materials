@@ -75,4 +75,5 @@ Make playable character using the nodes we saw, and using the order of scene tre
 
 - **[Official Godot Documentation](https://docs.godotengine.org/)**
 - **[Godot Community Hub](https://godotengine.org/community/)**
-- **[Brackeys - How to make 2d Game with Godot](https://youtu.be/LOhfqjmasi0?si=0M95npbsypR-ebCT&t=332) (from 5:32 to 16:56)**
+- **[Brackeys - How to make 2d Game with Godot(Nodes & Scenes)](https://youtu.be/LOhfqjmasi0?si=0M95npbsypR-ebCT&t=332) (from 5:32 to 16:56)**
+- **[Brackeys - How to make 2d Game with Godot(Input Handling)](https://youtu.be/LOhfqjmasi0?si=0M95npbsypR-ebCT&t=3275) (from 54:35 to 56:09)**
