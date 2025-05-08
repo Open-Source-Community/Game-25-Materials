@@ -110,6 +110,8 @@ collision_mask = 2   # Will interact with layer 2
 
 ### **Task**: Create a Tilemap
 
+> You can find the complete project in [`session 3 project.zip`](session%203%20project.zip).
+
 1. **Add a TileMap**:
    - Create a new scene and add a `TileMap` node.
 2. **Set Up Tileset**:
