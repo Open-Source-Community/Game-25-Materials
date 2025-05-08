@@ -46,6 +46,10 @@
 - Often has special attacks and patterns
 - May have weak points or specific conditions for damage
 
+### Save Project Example
+
+> You can find the complete save and load system example in [`enemies project.zip`](enemies_project.zip).
+
 ## Save & Load System
 
 ### Save Data in Godot
@@ -85,6 +89,10 @@ func load_game():
 
     return true
 ```
+
+### Save Project Example
+
+> You can find the complete save and load system example in [`save project.zip`](save_project.zip).
 
 ## References
 
