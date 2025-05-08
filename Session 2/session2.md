@@ -162,7 +162,7 @@ else:
 ## References
 
 - **[Godot Documentation - Animation](https://docs.godotengine.org/en/stable/tutorials/animation/)**
-- **[Brackeys - How to make 2d Game with Godot(Animation)](https://youtu.be/LOhfqjmasi0?si=0M95npbsypR-ebCT&t=498) (from 8:18 to 12:10)**
+- **[Brackeys - How to make 2d Game with Godot(Animation)](https://youtu.be/LOhfqjmasi0?si=0M95npbsypR-ebCT&t=498) (from 8:18 to 12:10) and (from 57:46 to 1:00:14)**
 
 - **[Godot Documentation - GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/)**
 - **[Brackeys - How to make 2d Game with Godot(GDScript)](https://youtu.be/LOhfqjmasi0?si=0M95npbsypR-ebCT&t=830) (from 13:50 to 16:56)**
