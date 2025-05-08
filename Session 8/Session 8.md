@@ -1,4 +1,13 @@
-# Game Design - Session 8 Summary
+# Session 8: Game Design Principles
+
+## Agenda
+
+1. **[Objective](#1-objective)**
+2. **[Rules](#2-rules)**
+3. **[Core Loop](#3-core-loop)**
+4. **[Feedback](#4-feedback)**
+5. **[Balance](#5-balance)**
+6. **[Fun](#6-fun)**
 
 ## 1. Objective
 
@@ -9,10 +18,8 @@ The **objective** is the main goal the player is trying to achieve. It gives dir
 
 **Examples**:
 
-- *NieR: Automata*: Short-term – complete missions; Long-term – uncover the truth behind the android-machine war.
-- *Super Mario Bros*: Short-term – reach the flagpole; Long-term – rescue Princess Peach.
-
----
+- _NieR: Automata_: Short-term – complete missions; Long-term – uncover the truth behind the android-machine war.
+- _Super Mario Bros_: Short-term – reach the flagpole; Long-term – rescue Princess Peach.
 
 ## 2. Rules
 
@@ -24,11 +31,9 @@ The **objective** is the main goal the player is trying to achieve. It gives dir
 
 **Examples**:
 
-- *Chess*: Each piece moves in a defined way.
-- *Minecraft*: Can’t sleep if enemies are nearby.
-- *Ori and the Blind Forest*: Access restricted until specific abilities are unlocked.
-
----
+- _Chess_: Each piece moves in a defined way.
+- _Minecraft_: Can’t sleep if enemies are nearby.
+- _Ori and the Blind Forest_: Access restricted until specific abilities are unlocked.
 
 ## 3. Core Loop
 
@@ -36,18 +41,14 @@ The **core loop** is the main cycle of repeated player actions. It keeps gamepla
 
 **Basic Structure**: Action → Reward → Progress → Repeat
 
-**Example** (*Ori and the Blind Forest*):  
+**Example** (_Ori and the Blind Forest_):  
 Discover → Fight → Collect → Open New Area → Repeat
-
----
 
 ## 4. Feedback
 
 **Feedback** is how the game responds to the player's actions. It shows success, failure, or progress, helping the player adapt.
 
 - Audio, visual, haptic, and narrative forms
-
----
 
 ## 5. Balance
 
@@ -67,12 +68,8 @@ Discover → Fight → Collect → Open New Area → Repeat
 2. Provide responsive controls and feedback
 3. Avoid extremes of boredom or frustration
 
----
-
 ## 6. Fun
 
 **Fun** is the ultimate goal of game design. All systems—objectives, feedback, balance, flow—should serve the player’s enjoyment.
 
 > If the game isn’t fun, nothing else matters.
-
----
