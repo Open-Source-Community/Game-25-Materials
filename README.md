@@ -9,7 +9,7 @@ This repository contains all the materials, presentations, and project files for
 - [Session 1: Introduction to Godot](./Session%201/session1.md)
 - [Session 2: GDScript and Animation](./Session%202/session2.md)
 - [Session 3: Physics, Tile Map and Instantiation](./Session%203/session3.md)
-- [Session 4: Signals](./Session%204/session4.md)
+- [Session 4: Signals and Game Jam](./Session%204/session4.md)
 - [Session 5: Object Pooling and Global Scripts](./Session%205/session5.md)
 - [Session 6: Enemy and Save System](./Session%206/session6.md)
   <!-- - [Session 7: Lights](./Session%207/session7.md) -->
@@ -22,7 +22,6 @@ Each session folder contains:
 - PowerPoint presentations (.pptx)
 - Detailed session documentation (.md)
 - Project files and examples (where applicable)
-- Visual aids and demonstrations
 
 ## Getting Started
 
