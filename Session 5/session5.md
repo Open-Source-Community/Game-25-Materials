@@ -127,6 +127,10 @@ func get_pool(scene: PackedScene) -> ObjectPool:
     return pools[scene]
 ```
 
+### Take a look at the Project
+
+> You can find the complete autoload example in [`Object_pooling.zip`](Object_pooling.zip).
+
 ## Hands-on Exercise
 
 Implement a pool specifically for bullets:
@@ -189,6 +193,10 @@ func take_damage():
     if GameManager.player_health <= 0:
         GameManager.reset_game()
 ```
+
+### Take a look at the Project
+
+> You can find the complete autoload example in [`autoload_test.zip`](autoload_test.zip).
 
 ## References
 
