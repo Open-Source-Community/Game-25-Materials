@@ -71,15 +71,15 @@ Use Godot's scene tree to create and await a timer:
 ```gdscript
 await get_tree().create_timer(2.0).timeout
 # This line will pause execution for 2 seconds
-``` 
+```
+
+> You can find the complete project in the [`session-7-work`](session-7-work.zip) folder.
 
 ## References
 
-- **[Godot Documentation - 2D Lighrs and Shadows](https://docs.godotengine.org/en/stable/tutorials/2d/2d_lights_and_shadows.html)**
+- **[Godot Documentation - 2D Lights and Shadows](https://docs.godotengine.org/en/stable/tutorials/2d/2d_lights_and_shadows.html)**
 - **[2D Light and Shadows video](https://www.youtube.com/watch?v=AAPqEebFV-E)**
 
 - **[Godot Documentation - Timers](https://docs.godotengine.org/en/stable/classes/class_timer.html)**
 - **[Godot Node Timer video](https://www.youtube.com/watch?v=Zf6awHRr7bU)**
 - **[Godot GDScript Timer video](https://www.youtube.com/watch?v=ZtKHZP2bRos)**
-
-
