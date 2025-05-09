@@ -5,8 +5,7 @@
 1. **[2D Light](#2d-light)**
 2. **[Shadows](#shadows)**
 3. **[Timers](#timers)**
-4. **[Task](#task)**
-5. **[References](#references)**
+4. **[References](#references)**
 
 ## 2D Light
 
