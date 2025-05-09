@@ -12,7 +12,7 @@ This repository contains all the materials, presentations, and project files for
 - [Session 4: Signals and Game Jam](./Session%204/session4.md)
 - [Session 5: Object Pooling and Global Scripts](./Session%205/session5.md)
 - [Session 6: Enemy and Save System](./Session%206/session6.md)
-  <!-- - [Session 7: Lights](./Session%207/session7.md) -->
+- [Session 7: Lights](./Session%207/session7.md)
 - [Session 8: Game Design](./Session%208/session8.md)
 
 ## Repository Structure
