@@ -14,6 +14,7 @@ This repository contains all the materials, presentations, and project files for
 - [Session 6: Enemy and Save System](./Session%206/session6.md)
 - [Session 7: 2D Lights and Shadows](./Session%207/session7.md)
 - [Session 8: Game Design](./Session%208/Session8.md)
+- [Session 9: Introduction to 3D in Godot](./Session%209/session9.md)
 
 ## Repository Structure
 
