@@ -67,6 +67,8 @@ Then, for each state we have, we'll make a new node and attach a new script for 
 
 Lastly, there needs to be a Finite State Machine node and script, which will be responsible to see all available state and coordinate calling and transitioning between them. In the scene-tree the Finite State Machine will be of type `Node`, and will have the stat` nodes under it.
 
+> You can find the complete project in [session-11-project.zip](./session-11-project.zip)
+
 ---
 
 ## References
