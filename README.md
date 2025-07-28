@@ -16,6 +16,7 @@ This repository contains all the materials, presentations, and project files for
 - [Session 8: Game Design](./Session%208/Session8.md)
 - [Session 9: Introduction to 3D in Godot](./Session%209/session9.md)
 - [Session 10: Assets, Collisions and Level Design](./Session%2010/session10.md)
+- [Session 11: Animation Player & Finite State Machines](./Session%2011/session11.md)
 
 ## Repository Structure
 
