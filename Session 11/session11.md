@@ -28,14 +28,14 @@
 - Here we can create and switch between animation, adjust animation length and properties, and add property tracks.
 - To add a track, click on `+ Add Track` which will prompt to chose a node and then choose a property.
 - This will create a new `Track` which we can add [`Keyframe`](#keyframes)s to.
-- The `AnimationPlayer` will interpolae between the values of each keyframe in the track, making a smooth animation between them.
+- The `AnimationPlayer` will interpolate between the values of each keyframe in the track, making a smooth animation between them.
     - So for a position track with 2 keyframes (Vector2(0,0) and Vector2(50,0)) the AnimationPlayer will smoothly change the position of the node between these 2 points.  
 
 #### Keyframes
 
-- Keyframes are snapshots of a certain node's properties, which we can insert into the property track and the AnimationPlayer will intrpolate between the keyframes.
-- Any node property that can be accessed from the insepctor can be inserted as a Keyframe
-- Keyframess inserted can be clicked on to editted. Most importantly we can edit the `time` of the keyframe on the property track, and the value of the property the keyframe is holding.
+- Keyframes are snapshots of a certain node's properties, which we can insert into the property track and the AnimationPlayer will interpolate between the keyframes.
+- Any node property that can be accessed from the inspector can be inserted as a Keyframe
+- Keyframes inserted can be clicked on to edited. Most importantly we can edit the `time` of the keyframe on the property track, and the value of the property the keyframe is holding.
 - If 2 keyframes have a line white line between them, that indicates that the value of the property between the two keyframes is the same.
 - To add a keyframe to the property track, either:
     - Right-click on the track and select `insert keyframe`, this will add a keyframe with the current value the property holds.
@@ -63,9 +63,9 @@ In a codebase using FSMs, since each state holds it's own code, adding a new sta
 
 First off, to start building our finite state machine, we'll need to define a state class in a script that won't be attached to any node. The state class will hold all base functions the states will use.
 
-Then, for each state we have, we'll make a new node and attach a new script for that state. The script will extend from the state class and will override the defined fucntions. Each state will have it's own logic inside such as `enter`, `physics_update` and `handle_input` to name a few.
+Then, for each state we have, we'll make a new node and attach a new script for that state. The script will extend from the state class and will override the defined functions. Each state will have it's own logic inside such as `enter`, `physics_update` and `handle_input` to name a few.
 
-Lastly, there needs to be a Finite State Machine node and script, which will be responsible to see all available state and coordinate calling and transitioning between them. In the scene-tree the Finite State Machine will be of type `Node`, and will have the stat` nodes under it.
+Lastly, there needs to be a Finite State Machine node and script, which will be responsible to see all available state and coordinate calling and transitioning between them. In the scene-tree the Finite State Machine will be of type `Node`, and will have the `state` nodes under it.
 
 > You can find the complete project in [session-11-project.zip](./session-11-project.zip)
 
